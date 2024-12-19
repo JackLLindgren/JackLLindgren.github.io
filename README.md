@@ -15,11 +15,9 @@ Jack Lindgren is a self-driven AI/ML consultant and master's student with a stro
 * **AI/ML Consultant** | Park University, Parkville, MO | May 2023 - Jul 2023
     * Developed an underwriting model using XGBoost. 
 * **Physics/Chemistry/Biology Tutor** | Park University, Parkville, MO | Nov 2022 - May 2023
-    * Provided tutoring services to students in various science disciplines.
+    * Provided tutoring services to students in Physics, Chemistry, and Biology.
 * **Cardiology Technician** | The University of Kansas Medical Center, Kansas City, KS | Nov 2021 - Jan 2023
-    * Performed cardiology technician duties (specifics can be added if available).
 * **Sales Associate** | The Running Well Store, Kansas City, MO | May 2021 - Jul 2024
-    * Assisted customers with their purchases and provided excellent customer service.
 
 **Education**
 
@@ -43,10 +41,8 @@ Jack Lindgren is a self-driven AI/ML consultant and master's student with a stro
 **Skills**
 
 * **Machine Learning:**  LLMs, Transformer models, Regression, Classification, XGBoost
-* **Programming:** Python
-* **Data Science:**  (Add specific skills from your coursework or projects)
-* **Tutoring:** Physics, Chemistry, Biology
-* **Cardiology Techniques:** (Add specifics if available) 
+* **Programming:** Python, R
+* **Data Science:**  (ML/AI, data analysis, R, Python,)
 
 **Certifications and Awards**
 
