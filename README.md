@@ -1,6 +1,3 @@
-# JackLLindgren.github.io
-GitHub Pages Repository
-
 # Jack L. Lindgren
 
 **Contact Information**
