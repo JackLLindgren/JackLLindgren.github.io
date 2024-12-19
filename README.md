@@ -33,6 +33,12 @@ Jack Lindgren is a self-driven AI/ML consultant and master's student with a stro
     * GPA: 3.55
     * McAfee Scholarship recipient
     * Contributed to a dietary study with a seed dispersal focus on turtles from a local Missouri River tributary.
+    * 
+**Projects**
+
+* **Healthcare Readmission Prediction with ML:** 
+    * Created various models (regression, random forest, xgboost, neural, SVM, and Ensemble methods) to predict patient readmissions.
+    *Created 62% prediction accuracy over 55% baseline
 
 **Skills**
 
