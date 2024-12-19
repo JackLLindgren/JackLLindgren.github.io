@@ -39,7 +39,9 @@ Jack Lindgren is a self-driven AI/ML consultant and master's student with a stro
 * **Healthcare Readmission Prediction with ML:** 
     * Created various models (regression, random forest, xgboost, neural, SVM, and Ensemble methods) to predict patient readmissions.
     * Created 62% prediction accuracy over 55% baseline
-    * Project Link: https://github.com/JackLLindgren/JackLLindgren.github.io/blob/main/Projects/Readmissions_Project.ipynb
+    <li class="masthead__menu-item">
+          <a href="https://github.com/JackLLindgren/JackLLindgren.github.io/blob/main/Projects/Readmissions_Project.ipynb.html">Project Link</a>
+        </li>
 
 **Skills**
 
