@@ -1,2 +1,58 @@
 # JackLLindgren.github.io
 GitHub Pages Repository
+
+# Jack L. Lindgren
+
+**Contact Information**
+
+* Phone: 303-526-6889
+* Email: Jacklindgren3@gmail.com
+* Location: 732 W Cedar Street, Vermillion, SD 57069
+
+**About Me**
+
+Jack Lindgren is a self-driven AI/ML consultant and master's student with a strong interest in LLMs, transformer models, and regression/classification techniques.
+
+**Work Experience**
+
+* **AI/ML Consultant** | Park University, Parkville, MO | May 2023 - Jul 2023
+    * Developed an underwriting model using XGBoost. 
+* **Physics/Chemistry/Biology Tutor** | Park University, Parkville, MO | Nov 2022 - May 2023
+    * Provided tutoring services to students in various science disciplines.
+* **Cardiology Technician** | The University of Kansas Medical Center, Kansas City, KS | Nov 2021 - Jan 2023
+    * Performed cardiology technician duties (specifics can be added if available).
+* **Sales Associate** | The Running Well Store, Kansas City, MO | May 2021 - Jul 2024
+    * Assisted customers with their purchases and provided excellent customer service.
+
+**Education**
+
+* **University of Colorado Boulder** | M.S. in Data Science | Oct 2023 - March 2025
+    * GPA: 3.6
+* **Park University** | B.S. in Biology with minors in Chemistry and Natural Science | Aug 2018 - May 2023
+    * Graduated *cum laude*
+    * GPA: 3.55
+    * McAfee Scholarship recipient
+    * Contributed to a dietary study with a seed dispersal focus on turtles from a local Missouri River tributary.
+
+**Skills**
+
+* **Machine Learning:**  LLMs, Transformer models, Regression, Classification, XGBoost
+* **Programming:** Python
+* **Data Science:**  (Add specific skills from your coursework or projects)
+* **Tutoring:** Physics, Chemistry, Biology
+* **Cardiology Techniques:** (Add specifics if available) 
+
+**Certifications and Awards**
+
+* Advanced Machine Learning (Coursera)
+* Supervised Machine Learning: Regression and Classification (Coursera)
+* Python Data Structures (Coursera)
+* Coding for Everybody: Python (Coursera)
+* Unsupervised Learning, Recommenders, Reinforcement Learning (Coursera)
+* GRE: Verbal Reasoning - 162, Quantitative Reasoning - 162
+* Dr. Dorris Howell Leadership Award 2023
+
+**Extracurricular Activities**
+
+* Biology Club (Treasurer)
+* Chemistry Club
