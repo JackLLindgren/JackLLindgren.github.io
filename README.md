@@ -38,6 +38,14 @@ Jack Lindgren is a self-driven AI/ML consultant and master's student with a stro
           <a href="https://github.com/JackLLindgren/JackLLindgren.github.io/blob/main/Projects/Readmissions_Project/Readmissions_Project.ipynb">Project Link</a>
         </li>
 
+* **AI-Driven Customer Name Consolidation & Search:**
+    * Engineered a hybrid AI pipeline using **Sentence-BERT** and **Annoy** for efficient semantic candidate retrieval, with **Google's Gemini LLM** performing nuanced validation to group variations of customer names.
+    * Designed for large-scale, reliable execution with asynchronous API calls, result caching, and checkpoint/resume functionality.
+    * Developed **'F.R.A.N.K.'**, a **Flask** web application, providing an interactive interface for real-time semantic search across the consolidated customer dataset.
+       <li class="masthead__menu-item">
+          <a href="https://github.com/JackLLindgren/JackLLindgren.github.io/blob/main/Projects/Company_Matching/Readme.md">Project Link</a>
+        </li>
+
 **Skills**
 
 * **Machine Learning:**  LLMs, Transformer models, Regression, Classification, XGBoost
